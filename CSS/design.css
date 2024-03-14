@@ -1,0 +1,45 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+}
+.sectionOne{
+    border: 2px solid rgb(86, 171, 245);
+    display: flex;
+    padding: 10rem;
+    font-size: 20px;
+}
+.sectionTwo{
+    border: 2px solid rgb(86, 171, 245);
+    display: flex;
+    padding: 10rem;
+}
+.classInfo{
+    padding: 20px;
+}
+.classInfo, h1, p{
+    padding: 20px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(52, 154, 243);
+    font-weight: 600;
+}
+button{
+    margin-left: 20px;
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 3px solid rgb(59, 158, 245);
+    box-shadow: 5px 5px 2px rgb(0,0,0);
+}
+.ClassI{
+    border: 2px solid rgb(86, 171, 245);
+    margin: 20px;
+}
+
+
